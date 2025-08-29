@@ -121,17 +121,6 @@ flowchart TD
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 flowchart TD
     A[Data] --> B[Qualitative (Categorical)]
     A --> C[Quantitative (Numerical)]
@@ -141,11 +130,3 @@ flowchart TD
 
     C --> C1[Discrete]
     C --> C2[Continuous]
-
-
-
-
-
-
-
-
