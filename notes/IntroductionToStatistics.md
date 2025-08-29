@@ -118,8 +118,9 @@ flowchart TD
     C --> I[Regression Analysis]
     C --> J[Confidence Intervals]
 
+```` 
 
-
+```mermaid
 
 flowchart TD
     A[Data] --> B[Qualitative (Categorical)]
